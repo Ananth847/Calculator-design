@@ -1,0 +1,48 @@
+.container{
+    text-align: center;
+    background-color: cadetblue;
+    width: 20rem;
+    height: 25rem;
+    margin-left: 35rem;
+    border-radius: 13px;
+    box-shadow: 10px 10px 10px rgb(57, 57, 56);
+}
+.claculator{
+    text-align: center;
+    margin-top: 14rem;
+    padding: 20px;
+}
+.claculator input{
+    padding: 5px;
+    margin: 5px;
+    width: 35px;
+    height: 31px;
+    border: none;
+    border-radius: 10px;
+    cursor: grab;
+    box-shadow: 10px 10px 10px rgb(57, 57, 56);
+}
+.claculator .display1{
+    width: 100px;
+}
+.last{
+margin: 8px;
+}
+.claculator input:hover{
+    background-color:rgb(190, 190, 224);
+    
+}
+h2{
+    color: rgb(159, 67, 17);
+    background-color: black;
+    width: auto;
+    height: auto;
+   border-radius: 10px;
+   padding: 5px;
+}
+h2:hover{
+    color: aqua;
+    box-shadow: 10px 10px 10px rgb(235, 235, 153);
+
+    
+}
